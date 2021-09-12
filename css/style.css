@@ -1,0 +1,65 @@
+.topbg{
+    background-image: url(/img/bgwhite.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+.titlename{
+    color: #30033A;
+    font-family: 'Lobster', cursive;
+}
+
+.nodecor{
+    text-decoration: none;
+}
+
+.nametext{
+    color: #30033A;
+}
+
+.introbg{
+    background-color: #114B5F;
+    color: whitesmoke;
+    height: 70vh;
+}
+
+.introtext{
+    color: white;
+    font-family: 'Glory', sans-serif;
+}
+
+.minuspm{
+    margin-top: -10vw;
+    margin-bottom: 5vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 0.3rem solid #114B5F;
+}
+
+.icon{
+    color: #114B5F;
+}
+
+.projectbg{
+    background-color: #141C3A;
+    border: 0.2rem solid white;
+}
+
+.contactbg{
+    color: #EFF0EF;
+    background-color: #30033A;
+    margin-top: -10vh;
+}
+
+.tada{
+    animation: tada;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+}
+
+.jello:hover{
+    animation: jello;
+    animation-duration: 1s;
+    color:tomato;
+}
